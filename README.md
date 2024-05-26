@@ -2,7 +2,7 @@
   Site SSW - Projeto SA
 </h1>
 
-![WhatsApp Image 2024-05-26 at 17 48 28](https://github.com/Nicolas-S-Linhares/Site-SSW/assets/129209443/e2a62b5b-ca11-4c9c-9b4b-ffea360141ac)
+![pagina](https://github.com/Nicolas-S-Linhares/Site-SSW/assets/129209443/89cdfc7b-f0f5-4fd1-9e19-fd595ec2a233)
 
 
 ## 📓 Projeto
