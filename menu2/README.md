@@ -2,9 +2,8 @@
   Site SSW - Projeto SA
 </h1>
 
-<p align="center">
-  <img src=".github/pagina.jpeg" width="100%" />
-</p>
+![pagina](https://github.com/Nicolas-S-Linhares/Site-SSW/assets/129209443/38b378cd-2093-45f1-9e4f-a5b99a012329)
+
 
 ## 📓 Projeto
 
