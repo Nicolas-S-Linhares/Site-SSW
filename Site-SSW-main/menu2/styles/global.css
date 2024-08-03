@@ -1,0 +1,110 @@
+@import url('./background.css');
+@import url('./header.css');
+@import url('./main.css');
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --text: #EDF1F7;
+  --red: #C51212;
+  --blue: #0041C2;
+  --green: #14B02D;
+  --yellow: #ffc12b;
+}
+
+body, button, a {
+  color: var(--text);
+  font: 400 1rem "Mukta", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* definicao */
+
+.definition {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: var(--text);
+  border-radius: 10px; 
+  margin-bottom: 30px;
+}
+
+.definition_content {
+  max-width: 800px;
+}
+
+.definition h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.definition p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+/* softwares */
+
+.softwares {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 50px 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: var(--text);
+  border-radius: 10px;
+  margin-bottom: 30px; 
+}
+
+.softwares_content {
+  max-width: 800px;
+}
+
+.softwares h1 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+
+.software_list {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.software_list h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.software_list p {
+  font-size: 1.2rem;
+  line-height: 1.6;
+}
