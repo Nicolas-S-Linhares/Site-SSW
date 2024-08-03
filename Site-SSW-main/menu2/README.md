@@ -4,6 +4,7 @@
 
 ![pagina](https://github.com/Nicolas-S-Linhares/Site-SSW/assets/129209443/38b378cd-2093-45f1-9e4f-a5b99a012329)
 
+![image](https://github.com/user-attachments/assets/e8c622eb-de5e-4cd3-aefa-5168814cd770)
 
 ## 📓 Projeto
 
