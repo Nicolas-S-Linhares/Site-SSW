@@ -4,6 +4,7 @@
 
 ![pagina](https://github.com/Nicolas-S-Linhares/Site-SSW/assets/129209443/89cdfc7b-f0f5-4fd1-9e19-fd595ec2a233)
 
+![image](https://github.com/user-attachments/assets/0d32edd2-4f0e-4b06-a9c1-7f84d28c3648)
 
 ## 📓 Projeto
 
@@ -12,3 +13,4 @@ Este projeto é um trabalho escolar focado no desenvolvimento de um sistema de c
 ## 🧑‍💻 Tecnologias
 - HTML
 - CSS
+- JS
